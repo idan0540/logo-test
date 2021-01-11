@@ -1,0 +1,7 @@
+{
+  "name": "logo-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
